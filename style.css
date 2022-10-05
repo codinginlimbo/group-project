@@ -49,3 +49,15 @@ main h2 {
     background-color: green;
     color: white;
 }
+
+.jane-style {
+ color: purple
+}
+
+body {
+    background-color: salmon;
+}
+
+h2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
